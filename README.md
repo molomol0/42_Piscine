@@ -1,4 +1,6 @@
-# My Piscine Overview
+# My Piscine Overview 🏊🏻
+
+Final Level : lvl 9 - 46%
 
 | Projects               | Note   | Details  | KO Comments |
 |------------------------|--------|----------|----------|
@@ -16,4 +18,7 @@
 | [C09](./C09/)          | <div align="center">100✅</div>  |  ex00: OK \| ex01: OK \| ex02: OK                                                                                                                                         |          |
 | [C11](./C11/)          | <div align="center">50✅</div>   |  ex00: OK \| ex01: OK \| ex02: OK \| ex03: OK \| ex04: OK \| ex05: KO \| ex06: OK \| ex07: OK                                                                             |   <div align="center">ex05 : ¯\\\_(ツ)\_/¯</div>       |
 | [Rush02](./Rush02/)    | <div align="center">10❌</div>   |                                                                                                                                                                           |   <div align="center">Itoa leak</div>       |
-
+| [Exam00]               | <div align="center">50✅</div>   |                                                                                                                                                                           |          |
+| [Exam01]               | <div align="center">90✅</div>   |                                                                                                                                                                           |          |
+| [Exam02]               | <div align="center">90✅</div>   |                                                                                                                                                                           |          |
+| [Exam03]               | <div align="center">66✅</div>   |                                                                                                                                                                           |          |
